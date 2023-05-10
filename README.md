@@ -1,2 +1,2 @@
 # Inteligencia_Artificial
-Pesquisas e Projetos desenvolvidos nesta área
+Estudos, Pesquisas e Projetos desenvolvidos nesta área
