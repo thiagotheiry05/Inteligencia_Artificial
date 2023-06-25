@@ -10,6 +10,6 @@ Aulas da Disciplina de Ciência de dados: [Notebooks](https://github.com/thiagot
 Trabalhos finais de cada Unidade da Disciplina de Inteligência Artificial: 
 [Filter Spam](https://github.com/thiagotheiry05/Disciplinas-da-Graduacao/tree/main/INTELIG%C3%8ANCIA%20ARTIFICIAL/Unidade%201/Apresenta%C3%A7%C3%A3o%20-%20Filtro%20do%20Spam) Método de Naive Bayes para detecção de uma mensagem Spam 
 
-[Sistemas Especialistas com Aplicação em Diagnóstico Médico] (https://github.com/thiagotheiry05/Disciplinas-da-Graduacao/blob/main/INTELIG%C3%8ANCIA%20ARTIFICIAL/Unidade%203/Quest%C3%A3o%204/Quest%C3%A3o4_Lista3.ipynb) 
+[Sistemas Especialistas](https://github.com/thiagotheiry05/Disciplinas-da-Graduacao/blob/main/INTELIG%C3%8ANCIA%20ARTIFICIAL/Unidade%203/Quest%C3%A3o%204/Quest%C3%A3o4_Lista3.ipynb) com Aplicação em Diagnóstico Médico
 
- [Sistema Fuzzy para decidir qual ação do carro de acordo com a sua velocidade e a distância do carro da frente](https://github.com/thiagotheiry05/Disciplinas-da-Graduacao/blob/main/INTELIG%C3%8ANCIA%20ARTIFICIAL/Unidade%203/Trabalho%20Final%20-%20Unidade%203/Trabalho_Final.ipynb)
+ [Sistema Fuzzy](https://github.com/thiagotheiry05/Disciplinas-da-Graduacao/blob/main/INTELIG%C3%8ANCIA%20ARTIFICIAL/Unidade%203/Trabalho%20Final%20-%20Unidade%203/Trabalho_Final.ipynb) para decidir qual ação do carro de acordo com a sua velocidade e a distância do carro da frente
